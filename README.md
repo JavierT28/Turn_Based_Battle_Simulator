@@ -17,7 +17,7 @@ This project simulates classic turn‑based monster battles using simplified mec
 
 The goal is to create a flexible, extensible battle engine that can grow into:
 - A full CLI game  
-- A Pokopía‑style custom creature system  
+- A Pokemon‑style custom creature system  
 - A GUI or web‑based battle simulator  
 - A foundation for more advanced mechanics (type charts, status effects, AI, etc.)
 
@@ -26,7 +26,7 @@ The goal is to create a flexible, extensible battle engine that can grow into:
 ## 🧩 Features
 
 ### ✔ Core Mechanics
-- Object‑oriented Pokémon, Move, Team, and Battle classes  
+- Object‑oriented Classes: Pokémon, Move, Team, and Battle  
 - Deterministic turn order based on Speed  
 - Basic damage formula  
 - Automatic faint detection  
@@ -76,7 +76,7 @@ You should see a full turn‑based battle play out in the terminal.
 - Battle logs  
 - Animations  
 
-### 🌍 Worldbuilding (Pokopía)
+### 🌍 Worldbuilding (Pokemon)
 - Custom creatures  
 - Custom types  
 - Custom moves  
@@ -88,4 +88,5 @@ You should see a full turn‑based battle play out in the terminal.
 
 This project is for educational and portfolio purposes.  
 Not affiliated with Nintendo or The Pokémon Company.
+
 
